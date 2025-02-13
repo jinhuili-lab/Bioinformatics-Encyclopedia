@@ -8,6 +8,13 @@ This repository is dedicated to providing a comprehensive and detailed encyclope
 - Tutorials and guides on bioinformatics tools and software.
 - Research papers and publications related to bioinformatics.
 - Community contributions and discussions.
+## Tools
+### Omics
+#### Genomics
+#### Metagenomics
+#### Transciptomics
+#### Proteinomics
+
 
 ## Contributions
 
